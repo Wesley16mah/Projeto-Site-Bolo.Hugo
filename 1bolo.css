@@ -1,0 +1,18 @@
+img{
+    width: 200px
+  }
+  
+  body{
+    background-color: rgb(245, 146, 207)
+  }
+  
+  img{
+   border: 10px solid black
+  }
+  img{border-block-end-style: dotted; 
+  writing-mode: horizontal-tb;
+  }
+  
+  h1{border-block-end-style: dotted; 
+  writing-mode: horizontal-tb;
+  }
