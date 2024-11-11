@@ -1,0 +1,64 @@
+header {
+    background: rgb(248, 166, 221);
+    padding: 1px 0;
+}
+.caixa {
+    position: relative;
+    width: 1050px;
+    margin: 0 auto;
+}
+nav {
+    position: absolute;
+    top: 100px;
+    right: 0;
+
+}
+body {
+    background-color: antiquewhite;
+    text-align: 100px;
+}
+
+.bolo{
+    position: absolute;
+    top: 300px;
+    right: 280px;
+    font-size: 20px;
+    text-align: center;
+    background-image: var(--gradient);
+    background-clip: text;
+    -webkit-background-clip: text;
+    color: rgb(3, 0, 0);
+}
+
+.bolo1{
+    position: absolute;
+    top: 300px;
+    right: 1300px;
+    font-size: 20px;
+    text-align: center;
+    background-image: var(--gradient);
+    background-clip: text;
+    -webkit-background-clip: text;
+    color: rgb(3, 0, 0);
+}
+.bolo2{
+    position: absolute;
+    top: 300px;
+    right: 780px;
+    font-size: 20px;
+    text-align: center;
+    background-image: var(--gradient);
+    background-clip: text;
+    -webkit-background-clip: text;
+    color: rgb(3, 0, 0); 
+}
+
+ul {
+    display: flex;
+    align-items: center;
+    font-size: 3vh;
+    list-style-type: none;
+}
+li {
+    margin-left: 7vh;
+}
